@@ -4,3 +4,4 @@ pandas
 streamlit
 pickle mint
 pickle
+scikit-sklearn
